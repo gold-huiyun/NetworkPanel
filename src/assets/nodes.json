@@ -1,13 +1,14 @@
 {
 	"运营商":{
 		"和家亲*个人*节点[高速]":"https://cesu.hjq.komect.com/file16/speed/file/0e089cf4dbc94f00a741610cd45af97c.zip",
-		"咪咕快游[高速]":"https://freeserver.migufun.com/resource/beta/apk/20240412135425/MiguPlay-V3.79.1.1_miguzsj.apk",
-		"咪咕音乐":"https://wsdkdl.migu.cn:8443/b486900f41fc411187240dcb45fdbc8d/1711555243144/netsdk_b.js",
+		"咪咕快游TV":"https://tvgamedl.cmgame.com:8443/resource/upload/records/tvapk/apk/6.9.4.0_0_5213_2024-11-05_10011000000_xw_ijm_signed_signed_signed.apk",
+		"咪咕音乐":"https://d.musicapp.migu.cn/upload/fbpt_rsync_apps/local/signed/MobileMusic7430/MobileMusic7430_014000D_20241128223509752.apk",
 		"咪咕视频":"https://img.cmvideo.cn/publish/noms/2023/12/06/1O4SHFIFR36BD.gif",
-		"咪咕快游2":"https://h5cdn.migufun.com/middleh5/_nuxt/643447d.js",
-		"和彩云":"https://img.mcloud.139.com/material_prod/material_media/20221128/1669626861087.png",
+		"移动云盘":"https://img.mcloud.139.com/material_prod/material_media/20221128/1669626861087.png",
 		"联通电视":"NetworkPanelApi://listen.10155.com",
-		"电信测速":"https://vipspeedtest8.wuhan.net.cn:8080/download?size=1073741824"
+		"联通公免":"https://m1.ad.10010.com/small_video/uploadImg/1669798519261.png",
+		"天翼云":"https://ctyun-portal.gdoss.xstore.ctyun.cn/activity_media/d945c1219c624e85993178edd5dde0db.mp4",
+		"天翼云桌面":"https://desk.ctyun.cn/doc/main/images/electron.png"
 	},
 	"全球[Global]":{
 		"Cachefly":"https://web1.cachefly.net/speedtest/downloading",
